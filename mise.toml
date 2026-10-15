@@ -1,0 +1,2 @@
+[tools]
+"cargo:workshop-runner" = "0.2"
